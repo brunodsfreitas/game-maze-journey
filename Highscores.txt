@@ -1,0 +1,130 @@
+HighScores0
+{
+	day = 0;
+	difficulty = 4;
+	hour = 0;
+	minute = 0;
+	month = 0;
+	points = 0;
+}
+
+HighScores1
+{
+	day = 0;
+	difficulty = 4;
+	hour = 0;
+	minute = 0;
+	month = 0;
+	points = 0;
+}
+
+HighScores10
+{
+	day = 0;
+	difficulty = 4;
+	hour = 0;
+	minute = 0;
+	month = 0;
+	points = 0;
+}
+
+HighScores11
+{
+	day = 0;
+	difficulty = 4;
+	hour = 0;
+	minute = 0;
+	month = 0;
+	points = 0;
+}
+
+HighScores12
+{
+	day = 0;
+	difficulty = 4;
+	hour = 0;
+	minute = 0;
+	month = 0;
+	points = 0;
+}
+
+HighScores2
+{
+	day = 0;
+	difficulty = 4;
+	hour = 0;
+	minute = 0;
+	month = 0;
+	points = 0;
+}
+
+HighScores3
+{
+	day = 0;
+	difficulty = 4;
+	hour = 0;
+	minute = 0;
+	month = 0;
+	points = 0;
+}
+
+HighScores4
+{
+	day = 0;
+	difficulty = 4;
+	hour = 0;
+	minute = 0;
+	month = 0;
+	points = 0;
+}
+
+HighScores5
+{
+	day = 0;
+	difficulty = 4;
+	hour = 0;
+	minute = 0;
+	month = 0;
+	points = 0;
+}
+
+HighScores6
+{
+	day = 0;
+	difficulty = 4;
+	hour = 0;
+	minute = 0;
+	month = 0;
+	points = 0;
+}
+
+HighScores7
+{
+	day = 0;
+	difficulty = 4;
+	hour = 0;
+	minute = 0;
+	month = 0;
+	points = 0;
+}
+
+HighScores8
+{
+	day = 0;
+	difficulty = 4;
+	hour = 0;
+	minute = 0;
+	month = 0;
+	points = 0;
+}
+
+HighScores9
+{
+	day = 0;
+	difficulty = 4;
+	hour = 0;
+	minute = 0;
+	month = 0;
+	points = 0;
+}
+

@@ -1,0 +1,8 @@
+window
+{
+	title = Maze Journey - Bruno Freitas;
+	width = 1024;
+	height = 768;
+	windowed = false;
+	vsync = true;
+}
